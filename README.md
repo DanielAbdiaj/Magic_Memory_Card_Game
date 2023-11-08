@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## This React App it's hosted in this 2 domains
+### https://stately-zabaione-7fda74.netlify.app
+
 ## Available Scripts
 
 In the project directory, you can run:
