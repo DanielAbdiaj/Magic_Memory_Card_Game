@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## This React App it's hosted in this 2 domains
+## This React App it's hosted in this domain
 ### https://stately-zabaione-7fda74.netlify.app
 
 ## Available Scripts
